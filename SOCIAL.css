@@ -1,0 +1,74 @@
+body {
+background-image: url("http://www.no-zaku.com/background/wp-content/uploads/sites/9/2016/11/Awesome-Webpage-Background-Images.jpg")
+;
+}
+.car {
+text-align: center;
+}
+#fancy {
+color: aqua; 
+font-family: Lato;
+}
+#pirst {
+color: cornflowerblue;
+font-family: Cursive;
+}
+.rick{
+color: yellow; 
+font-family: Lato
+}
+.morty{
+color: yellow; 
+font-family: cursive;    
+}
+img {
+    float: right;
+    border: 3px solid red;
+}
+h1 {
+    color: coral ;
+}
+.brick {
+    color: bisque
+}
+.sack {
+    color: beige;
+}
+span img {
+    height: 70px;
+    width: 250px;
+    float: left;
+    border: none;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+}
+.sh {
+    height: 70px;
+    width: 670px;
+    border: 3px solid brown;
+    text-align: center;
+    background-color: crimson;
+}
+.bh {
+    height: 70px;
+    width: 670px;
+    border: 3px solid brown;
+    text-align: center;
+    background-color: brown;
+}
+.bick {
+    color: antiquewhite;
+    position: absolute;
+    right: 200px;
+    bottom: 50px;
+}
+div img {
+    height: 170px;
+    width: 250px;
+    float: right;
+    border: none;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
